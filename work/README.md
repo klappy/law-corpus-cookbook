@@ -1,0 +1,2 @@
+# work — the law-corpus rail
+Lanes: `queued/` (ordered, unclaimed) · `active/` (claimed, cooking) · `review/` (fresh-seat validation) · `done/`. One folder per unit, `TICKET.md` inside, receipts beside. Move the folder; position is state. First unit: mirror of kitchen `rail/1-ordered/2026-10-10-legal-corpus-and-sealed-questions` — the kitchen ticket is the order of record until this rail carries it.

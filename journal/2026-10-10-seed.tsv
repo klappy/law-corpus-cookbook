@@ -1,0 +1,2 @@
+id	ts	contributor	verdict	tier	signals	scope	custody	confidence	relationships	short	long
+k0001	2026-10-10T10:52:00-04:00	cos-door	observation		git-init	law-corpus	direct		klappy/kitchen:rail/1-ordered/2026-10-10-legal-corpus-and-sealed-questions/TICKET.md	Repo seeded: README, corpus/DATASETS.md (empty, verified-only), work lanes, journal	Captain created the repo 2026-10-10 10:46 ET and ruled it public with the answer key held per run. Description drafted for him to paste.
